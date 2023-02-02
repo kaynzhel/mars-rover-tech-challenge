@@ -4,5 +4,5 @@
 ## TODO
 * [ ] Create a suite of test cases.
 * [ ] Move classes to its own files.
-* [ ] Potentially refactor solution code for readability and general code improvement.
-* [ ] Potentially add more features to mimic real-world problems like obstructions.
+* [ ] Refactor solution code for readability and general code improvement.
+* [ ] Add more features to mimic real-world problems like obstructions.
